@@ -6,7 +6,9 @@
   font-family: 'Poppins', sans-serif;
 }
 .wrapper{
-  padding-left: 1000px;  
+  padding-left: 1000px; 
+  overflow:auto;
+  background-color: black;
 }
 .wrapper .button{
   display: inline-block;
