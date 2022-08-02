@@ -5,6 +5,9 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
+.wrapper{
+  padding-left: 1000px;  
+}
 .wrapper .button{
   display: inline-block;
   height: 60px;
