@@ -9,6 +9,8 @@
   padding-left: 1000px; 
   overflow:auto;
   background-color: black;
+   padding-top: 50px;
+   padding-bottom: 50px;
 }
 .wrapper .button{
   display: inline-block;
